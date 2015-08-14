@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.7.0_51\bin\wsimport.exe" -keep -s src -d bin "http://d19236:9090/JAX-WB-Test/yahoo?wsdl"
